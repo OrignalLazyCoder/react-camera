@@ -1,0 +1,13 @@
+.App{
+  background-color: aliceblue;
+}
+
+.CameraView{
+  margin: 50px;
+  float: left;
+}
+
+.ImageView{
+  margin: 50px;
+  float : right;
+}
